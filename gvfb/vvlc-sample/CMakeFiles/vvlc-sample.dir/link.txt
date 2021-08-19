@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/vvlc-sample.dir/vvlc-sample.o  -o vvlc-sample 

@@ -1,0 +1,117 @@
+# Prerequisites
+*.d
+
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Linker output
+*.ilk
+*.map
+*.exp
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Kernel Module Compile Results
+*.mod*
+*.cmd
+.tmp_versions/
+modules.order
+Module.symvers
+Mkfile.old
+dkms.conf
+
+# autoconf intermediate files
+Makefile
+Makefile.in
+\#
+am--include-marker
+.deps/
+.libs/
+/acinclude.m4
+/aclocal.m4
+/autom4te.cache
+/compile
+/missing
+/stamp-h1
+/config.*
+/configure
+/depcomp
+/install-sh
+/libtool
+/*.pc
+/*config.h
+/*config.h.in
+
+# executables
+src/mginit
+src/helloworld
+4.0/basicshapingengine
+4.0/bidicharactertest
+4.0/biditest
+4.0/complexshapingengine
+4.0/createlayout
+4.0/createlayoutinfo
+4.0/createlogfontex
+4.0/createtextruns
+4.0/createtextrunsinfo
+4.0/drawglyphstringex
+4.0/sliceallocator
+4.0/ustrgetbreaks
+extra-input/eventdumper
+drm-engine/testdrm
+comm-engines/commengines
+resmgr/str2key
+resmgr/resmgr
+compositor/mginit
+compositor/helloworld
+compositor/edit
+compositor/scrnsaver
+compositor/static
+compositor/trackbar
+compositor/combobox
+compositor/menubutton
+compositor/eventdumper
+compositor/wallpaper-welcome
+compositor/wallpaper-dynamic
+compositor/docker
+compositor/launcher
+compositor/screenlock
+5.0/mginit
+5.0/timer
+5.0/virtualwindow
+5.0/tickcount
+5.0/zorder
+5.0/setwindowregion
+5.0/slotset
+

@@ -1,0 +1,3 @@
+noinst_LTLIBRARIES=libengines.la
+
+libengines_la_SOURCES=common_engines.c

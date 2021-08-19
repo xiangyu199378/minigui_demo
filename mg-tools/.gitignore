@@ -1,0 +1,99 @@
+# Prerequisites
+*.d
+*.swp
+
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Linker output
+*.ilk
+*.map
+*.exp
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Kernel Module Compile Results
+*.mod*
+*.cmd
+.tmp_versions/
+modules.order
+Module.symvers
+Mkfile.old
+dkms.conf
+
+# Auto-generated files by autoconf/automake
+Makefile
+Makefile.in
+.deps/
+.libs/
+/acinclude.m4
+/aclocal.m4
+/autom4te.cache
+/compile
+/missing
+/stamp-h1
+/config.*
+/configure
+/depcomp
+/install-sh
+/libtool
+/*.pc
+/*config.h
+/*config.h.in
+
+# Executables
+bdf2upf/bdf2upf
+cryptool/cryptool
+font-tools/bdf2vbf
+font-tools/qpf2upf
+font-tools/upf2c
+font-tools/upfbbox
+font-tools/upfdump
+font-tools/upfmerge
+font-tools/upfmetrics
+font-tools/vbf2c
+image-dumper/imagedumper
+inner-res-trans/mg-inner-res-trans
+mgcfg-trans/mgcfg-trans
+ngux-tools/gen_incore_bitmap
+product-id/product-id
+qpfeditor/qpfeditor
+rbfeditor/rbfeditor
+tools/bdf2bin
+tools/bin2c
+upfeditor/upfeditor
+upfeditor/upftest
+vbfeditor/vbfeditor
+res2c/res2c
+

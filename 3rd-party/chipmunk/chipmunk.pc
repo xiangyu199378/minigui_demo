@@ -1,0 +1,13 @@
+prefix=/usr/local
+exec_prefix=/usr/local
+libdir=/usr/local/lib
+includedir=/usr/local/include
+
+Name: chipmunk
+Description: Chipmunk is a simple, lightweight, fast and portable 2D rigid body physics library written in C.
+Version: 5.3.1
+Requires:
+Libs: -L/usr/local/lib -lchipmunk
+libs.private: -lm
+CFlags: -I/usr/local/include
+

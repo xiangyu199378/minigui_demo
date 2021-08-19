@@ -1,0 +1,56 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+*.swp
+.deps/
+.libs/
+.dirstamp
+\#
+am--include-marker
+/acinclude.m4
+/aclocal.m4
+/autom4te.cache
+/compile
+/missing
+/stamp-h1
+/config.*
+/configure
+/depcomp
+/install-sh
+/libtool
+Makefile
+Makefile.in
+
+cbplusui/cbplusui
+softkbd/softkbd
+

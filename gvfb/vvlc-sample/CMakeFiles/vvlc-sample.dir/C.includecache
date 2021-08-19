@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yu/work/build-minigui-5.0/gvfb/vvlc-sample/vvlc-sample.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+fcntl.h
+-
+time.h
+-
+linux/limits.h
+-
+sys/types.h
+-
+sys/stat.h
+-
+sys/socket.h
+-
+sys/ipc.h
+-
+sys/sem.h
+-
+sys/shm.h
+-
+sys/un.h
+-
+unistd.h
+-
+signal.h
+-
+errno.h
+-
+
